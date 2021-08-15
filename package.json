@@ -1,0 +1,13 @@
+{
+  "private": true,
+  "name": "onfinality-document",
+  "scripts": {
+    "start": "vuepress dev docs",
+    "build": "vuepress build docs"
+  },
+  "dependencies": {
+    "@vuepress/plugin-google-analytics": "^1.8.2",
+    "vuepress": "^1.8.2",
+    "vuepress-plugin-fulltext-search": "^2.2.1"
+  }
+}
